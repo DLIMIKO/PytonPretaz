@@ -19,3 +19,6 @@ class Kruh:
 
 Prvy = Kruh(10)
 print(Prvy.obsah())
+
+Druhy=Kruh(20)
+
